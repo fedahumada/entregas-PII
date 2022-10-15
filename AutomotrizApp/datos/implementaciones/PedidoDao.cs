@@ -30,8 +30,7 @@ namespace AutomotrizApp.datos.implementaciones
 
         public bool Create(Pedido oPedido)
         {
-            return HelperDao.ObtenerInstancia().CrearDetallePedido("SP_INSERTAR_PEDIDO","SP_INSERTAR_DETALLE",oPedido);
+            return HelperDao.ObtenerInstancia().CrearDetallePedido("SP_INSERTAR_PEDIDO", "SP_INSERTAR_DETALLE", oPedido);
         }
-
     }
 }

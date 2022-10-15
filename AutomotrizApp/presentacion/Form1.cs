@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace AutomotrizApp
 {
-    public partial class Home : Form
+    public partial class Form1 : Form
     {
-        public Home()
+        public Form1()
         {
             InitializeComponent();
         }

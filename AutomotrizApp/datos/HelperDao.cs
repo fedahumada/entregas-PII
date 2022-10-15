@@ -1,12 +1,11 @@
-﻿using System;
+﻿using AutomotrizApp.dominio;
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
-using AutomotrizApp.dominio;
 
 namespace AutomotrizApp.datos
 {
@@ -23,7 +22,7 @@ namespace AutomotrizApp.datos
 
         public static HelperDao ObtenerInstancia()
         {
-            if(instancia == null)
+            if (instancia == null)
             {
                 instancia = new HelperDao();
             }
@@ -96,16 +95,5 @@ namespace AutomotrizApp.datos
             return respuesta;
 
         }
-
-
-
-
-
-
-
-
-
-
-
     }
 }

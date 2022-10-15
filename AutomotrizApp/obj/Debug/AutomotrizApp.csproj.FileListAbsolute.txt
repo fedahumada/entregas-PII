@@ -1,0 +1,10 @@
+C:\AHUFEDE\REPOSITORIOS GITHUB\AutomotrizApp\bin\Debug\AutomotrizApp.exe.config
+C:\AHUFEDE\REPOSITORIOS GITHUB\AutomotrizApp\bin\Debug\AutomotrizApp.exe
+C:\AHUFEDE\REPOSITORIOS GITHUB\AutomotrizApp\bin\Debug\AutomotrizApp.pdb
+C:\AHUFEDE\REPOSITORIOS GITHUB\AutomotrizApp\obj\Debug\AutomotrizApp.csproj.AssemblyReference.cache
+C:\AHUFEDE\REPOSITORIOS GITHUB\AutomotrizApp\obj\Debug\AutomotrizApp.csproj.SuggestedBindingRedirects.cache
+C:\AHUFEDE\REPOSITORIOS GITHUB\AutomotrizApp\obj\Debug\AutomotrizApp.Properties.Resources.resources
+C:\AHUFEDE\REPOSITORIOS GITHUB\AutomotrizApp\obj\Debug\AutomotrizApp.csproj.GenerateResource.cache
+C:\AHUFEDE\REPOSITORIOS GITHUB\AutomotrizApp\obj\Debug\AutomotrizApp.csproj.CoreCompileInputs.cache
+C:\AHUFEDE\REPOSITORIOS GITHUB\AutomotrizApp\obj\Debug\AutomotrizApp.exe
+C:\AHUFEDE\REPOSITORIOS GITHUB\AutomotrizApp\obj\Debug\AutomotrizApp.pdb

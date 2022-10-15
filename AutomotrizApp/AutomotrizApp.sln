@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.3.32929.385
+VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomotrizApp", "AutomotrizApp.csproj", "{2AB7FCA0-7BEB-46B9-BB17-033F45408E32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomotrizApp", "AutomotrizApp.csproj", "{05B7B84A-57F3-492D-98DF-78B2D23CFEE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2AB7FCA0-7BEB-46B9-BB17-033F45408E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2AB7FCA0-7BEB-46B9-BB17-033F45408E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2AB7FCA0-7BEB-46B9-BB17-033F45408E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2AB7FCA0-7BEB-46B9-BB17-033F45408E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B7B84A-57F3-492D-98DF-78B2D23CFEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B7B84A-57F3-492D-98DF-78B2D23CFEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B7B84A-57F3-492D-98DF-78B2D23CFEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B7B84A-57F3-492D-98DF-78B2D23CFEE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6E735361-4C5E-44A5-BFA7-D556519746A6}
+		SolutionGuid = {3AED7954-8095-4F3B-B417-C85C4BB90369}
 	EndGlobalSection
 EndGlobal

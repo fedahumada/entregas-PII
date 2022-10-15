@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2AB7FCA0-7BEB-46B9-BB17-033F45408E32}</ProjectGuid>
+    <ProjectGuid>{05B7B84A-57F3-492D-98DF-78B2D23CFEE0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>AutomotrizApp</RootNamespace>
     <AssemblyName>AutomotrizApp</AssemblyName>
@@ -49,23 +49,21 @@
     <Compile Include="datos\HelperDao.cs" />
     <Compile Include="datos\implementaciones\PedidoDao.cs" />
     <Compile Include="datos\interfaces\IPedidoDao.cs" />
+    <Compile Include="dominio\Detalle.cs" />
     <Compile Include="dominio\Pedido.cs" />
     <Compile Include="dominio\Producto.cs" />
-    <Compile Include="dominio\Detalle.cs" />
-    <Compile Include="dominio\Factura.cs" />
-    <Compile Include="Home.cs">
+    <Compile Include="presentacion\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Home.Designer.cs">
-      <DependentUpon>Home.cs</DependentUpon>
+    <Compile Include="presentacion\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="servicios\FabricaServicio.cs" />
+    <Compile Include="servicios\FabricaServicioImp.cs" />
     <Compile Include="servicios\implementaciones\Servicio.cs" />
     <Compile Include="servicios\interfaces\IServicio.cs" />
-    <EmbeddedResource Include="Home.resx">
-      <DependentUpon>Home.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -89,8 +87,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="presentacion\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

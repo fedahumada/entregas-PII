@@ -37,8 +37,5 @@ namespace AutomotrizApp.dominio
                 total += item.CalcularSubTotal();
             return total;
         }
-
-
-
     }
 }
